@@ -2,20 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://seyedmahdi.github.io/posts/</loc>
-    <lastmod>2021-08-07T20:09:47-04:00</lastmod>
-  </url><url>
-    <loc>https://seyedmahdi.github.io/</loc>
-    <lastmod>2021-08-07T20:09:47-04:00</lastmod>
-  </url><url>
-    <loc>https://seyedmahdi.github.io/posts/salam/</loc>
-    <lastmod>2021-08-07T20:09:47-04:00</lastmod>
-  </url><url>
-    <loc>https://seyedmahdi.github.io/posts/hi/</loc>
+    <loc>https://seyedmahdi3.github.io/seyedmahdi.github.io/posts/hi/</loc>
     <lastmod>2021-08-07T19:33:14-04:00</lastmod>
   </url><url>
-    <loc>https://seyedmahdi.github.io/categories/</loc>
+    <loc>https://seyedmahdi3.github.io/seyedmahdi.github.io/posts/</loc>
+    <lastmod>2021-08-07T19:33:14-04:00</lastmod>
   </url><url>
-    <loc>https://seyedmahdi.github.io/tags/</loc>
+    <loc>https://seyedmahdi3.github.io/seyedmahdi.github.io/</loc>
+    <lastmod>2021-08-07T19:33:14-04:00</lastmod>
+  </url><url>
+    <loc>https://seyedmahdi3.github.io/seyedmahdi.github.io/categories/</loc>
+  </url><url>
+    <loc>https://seyedmahdi3.github.io/seyedmahdi.github.io/tags/</loc>
   </url>
 </urlset>

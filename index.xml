@@ -2,26 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seyed Mahdi Blog</title>
-    <link>https://seyedmahdi.github.io/</link>
+    <link>https://seyedmahdi3.github.io/seyedmahdi.github.io/</link>
     <description>Recent content on Seyed Mahdi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Aug 2021 20:09:47 -0400</lastBuildDate><atom:link href="https://seyedmahdi.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>سلام</title>
-      <link>https://seyedmahdi.github.io/posts/salam/</link>
-      <pubDate>Sat, 07 Aug 2021 20:09:47 -0400</pubDate>
-      
-      <guid>https://seyedmahdi.github.io/posts/salam/</guid>
-      <description>سلام دوستان این سایت منه</description>
-    </item>
-    
+    <lastBuildDate>Sat, 07 Aug 2021 19:33:14 -0400</lastBuildDate><atom:link href="https://seyedmahdi3.github.io/seyedmahdi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hi</title>
-      <link>https://seyedmahdi.github.io/posts/hi/</link>
+      <link>https://seyedmahdi3.github.io/seyedmahdi.github.io/posts/hi/</link>
       <pubDate>Sat, 07 Aug 2021 19:33:14 -0400</pubDate>
       
-      <guid>https://seyedmahdi.github.io/posts/hi/</guid>
+      <guid>https://seyedmahdi3.github.io/seyedmahdi.github.io/posts/hi/</guid>
       <description>hi im seyed mahdi and welcome</description>
     </item>
     
